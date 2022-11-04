@@ -1,0 +1,13 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+storybook-static
+
+# IDE
+.idea
+.vscode
+
+# Turbo Repo
+.turbo
