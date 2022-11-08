@@ -1,5 +1,5 @@
 {
-    "name": "@ignite-ui/tokens",
+    "name": "@leandro-ignite-ui-design-system/tokens",
     "version": "1.0.0",
     "description": "",
     "main": "./dist/index.js",
@@ -14,8 +14,8 @@
     "author": "",
     "license": "ISC",
     "devDependencies": {
-        "@ignite-ui/ts-config": "*",
-        "@ignite-ui/eslint-config": "*",
+        "@leandro-ignite-ui-design-system/ts-config": "*",
+        "@leandro-ignite-ui-design-system/eslint-config": "*",
         "tsup": "^6.3.0",
         "typescript": "^4.8.4"
     }
