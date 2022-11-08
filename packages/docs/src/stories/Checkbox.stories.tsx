@@ -5,16 +5,7 @@ import { Box, Text, Checkbox, CheckboxProps } from '@ignite-ui/react'
 export default {
     title: 'Form/Checkbox',
     component: Checkbox,
-    args: {
-        checked: true,
-    },
-    argTypes: {
-        checked: {
-            controls: {
-                type: 'boolean',
-            },
-        },
-    },
+    args: {},
     decorators: [
         Story => (
             <Box as="label" css={{ display: 'flex', gap: '$2' }}>
