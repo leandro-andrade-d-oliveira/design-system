@@ -11,6 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "private": true,
   "devDependencies": {
     "@babel/core": "^7.19.6",
     "@storybook/addon-actions": "^6.5.13",
