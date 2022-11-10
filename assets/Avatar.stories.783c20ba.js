@@ -1,0 +1,2 @@
+import{A as r}from"./index.bebf4d22.js";import"./index.26e486f7.js";import"./iframe.007a7b8e.js";import"./index.ad6f9d2b.js";import"./jsx-runtime.18ba1486.js";const e={title:"Data display/Avatar",component:r,args:{src:"https://github.com/leandro-andrade-d-oliveira.png",alt:"Leandro Oliveira"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.783c20ba.js.map
